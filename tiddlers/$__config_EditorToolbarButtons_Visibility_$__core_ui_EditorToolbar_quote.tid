@@ -1,7 +1,7 @@
 created: 20240718124108507
 creator: Mason
-modified: 20240718124108507
+modified: 20240718133851243
 modifier: Mason
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/quote
 
-hide
+show

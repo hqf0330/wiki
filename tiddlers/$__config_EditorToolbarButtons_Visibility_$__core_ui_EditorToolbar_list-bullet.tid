@@ -1,7 +1,7 @@
 created: 20240718124107900
 creator: Mason
-modified: 20240718124107900
+modified: 20240718133709444
 modifier: Mason
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/list-bullet
 
-hide
+show

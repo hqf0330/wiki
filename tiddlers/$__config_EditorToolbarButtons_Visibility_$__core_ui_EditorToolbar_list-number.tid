@@ -1,7 +1,7 @@
 created: 20240718124107387
 creator: Mason
-modified: 20240718124107387
+modified: 20240718133710347
 modifier: Mason
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/list-number
 
-hide
+show

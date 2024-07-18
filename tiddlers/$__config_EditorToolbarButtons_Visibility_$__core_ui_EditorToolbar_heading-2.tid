@@ -1,7 +1,7 @@
 created: 20240718124105947
 creator: Mason
-modified: 20240718124105947
+modified: 20240718133712980
 modifier: Mason
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/heading-2
 
-hide
+show
