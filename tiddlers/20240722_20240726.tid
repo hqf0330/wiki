@@ -1,6 +1,10 @@
 created: 20240722020713714
 creator: Mason
-modified: 20240722020752625
+modified: 20240722042604148
 modifier: Mason
 tags: 日常
 title: 20240722_20240726
+
+1. 校验show字段的取值问题，坚持完后重新推送
+
+2. 开发测试完etl tools的config血缘解析
